@@ -11,3 +11,11 @@ These are intended as concept-level engineering tools with transparent assumptio
 ## Planned additions
 - Battery heat generation estimation
 - Cooling power vs thermal load trade studies
+- 
+## Engineering Assumptions
+
+- Constant auxiliary load during trip
+- Fixed traction energy consumption
+- No transient HVAC dynamics modeled
+
+Future versions will include temperature-dependent loads and compressor efficiency curves.
