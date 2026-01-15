@@ -20,3 +20,4 @@ These are intended as concept-level engineering tools with transparent assumptio
 
 Future versions will include temperature-dependent loads and compressor efficiency curves.
 - **battery_thermal_trade_study.ipynb** – Physics-based battery heat generation and lumped thermal model with sensitivity analysis.
+- **hvac_battery_combined_energy_thermal.ipynb** – Coupled traction, HVAC, and battery thermal model comparing city vs highway driving scenarios.
