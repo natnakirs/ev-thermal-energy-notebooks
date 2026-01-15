@@ -19,3 +19,4 @@ These are intended as concept-level engineering tools with transparent assumptio
 - No transient HVAC dynamics modeled
 
 Future versions will include temperature-dependent loads and compressor efficiency curves.
+- **battery_thermal_trade_study.ipynb** – Physics-based battery heat generation and lumped thermal model with sensitivity analysis.
